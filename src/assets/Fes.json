@@ -1,0 +1,5070 @@
+[
+  {
+    "id": 1,
+    "data": [
+      {
+        "id": 1,
+        "question": "Trang phục truyền thống của người Hà Quốc có tên gọi là gì?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Kimono"
+          },
+          {
+            "id": "B",
+            "value": "Saree "
+          },
+          {
+            "id": "C",
+            "value": " Sampot"
+          },
+          {
+            "id": "D",
+            "value": "Hanbok "
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Nhà toán học Việt Nam đầu tiên giành được giải thưởng Fields là ai?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lê Bá Khánh Trình"
+          },
+          {
+            "id": "B",
+            "value": "Lê Văn Thiêm"
+          },
+          {
+            "id": "C",
+            "value": "Ngô Bảo Châu"
+          },
+          {
+            "id": "D",
+            "value": "Bùi Trọng Liễu"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Đội hình chính thức ra sân của 1 đội bóng đá Futsal gồm bao nhiêu cầu thủ?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "5"
+          },
+          {
+            "id": "B",
+            "value": "6"
+          },
+          {
+            "id": "C",
+            "value": "7"
+          },
+          {
+            "id": "D",
+            "value": "8"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Danh tướng nào của nước ta nổi danh với chiến thuật “Tiên phát chế nhân” trong cuộc chiến chống quân Tống xâm lược 1075-1077? ",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ngô Quyền"
+          },
+          {
+            "id": "B",
+            "value": "Lê Đại Hành"
+          },
+          {
+            "id": "C",
+            "value": "Đinh Bộ Lĩnh"
+          },
+          {
+            "id": "D",
+            "value": "Lý Thường Kiệt"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Đơn vị tính độ phân giải màn hình là gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bit"
+          },
+          {
+            "id": "B",
+            "value": "Pixel"
+          },
+          {
+            "id": "C",
+            "value": "Byte"
+          },
+          {
+            "id": "D",
+            "value": "Mbps "
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Họa sĩ Bùi Xuân Phái nổi tiếng với các tác phẩm vẽ về phố cổ Hà Nội bằng chất liệu gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": " Lụa"
+          },
+          {
+            "id": "B",
+            "value": "Sơn dầu"
+          },
+          {
+            "id": "C",
+            "value": "Sơn mài"
+          },
+          {
+            "id": "D",
+            "value": "Giấy Dó"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Trong phong trào kết nghĩa Bắc – Nam, tỉnh Đồng Nai (hiện nay) đã kết nghĩa với tỉnh, thành nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nghệ An"
+          },
+          {
+            "id": "B",
+            "value": "Đồng Tháp"
+          },
+          {
+            "id": "C",
+            "value": "Hà Nam"
+          },
+          {
+            "id": "D",
+            "value": "Lào Cai"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 1"
+  },
+  {
+    "id": 2,
+    "data": [
+      {
+        "id": 1,
+        "question": "What is the second most common gas found in the air we breathe?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nitrogen"
+          },
+          {
+            "id": "B",
+            "value": "Oxygen"
+          },
+          {
+            "id": "C",
+            "value": "Hydrogen"
+          },
+          {
+            "id": "D",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Răng khôn là răng số mấy?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Răng số 6"
+          },
+          {
+            "id": "B",
+            "value": "Răng số 7"
+          },
+          {
+            "id": "C",
+            "value": "Răng số 8"
+          },
+          {
+            "id": "D",
+            "value": "Răng số 9"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Chính sách phân biệt chủng tộc Apartheid (A-pac-thai) đã từng có thời gian lộng hành ở quốc gia nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bờ Biển Ngà"
+          },
+          {
+            "id": "B",
+            "value": "Nigeria"
+          },
+          {
+            "id": "C",
+            "value": "Algeria"
+          },
+          {
+            "id": "D",
+            "value": "Cộng hòa Nam Phi"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Tâm đường tròn ngoại tiếp của một tam giác là giao điểm của ba đường nào trong tam giác đó?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đường trung trực"
+          },
+          {
+            "id": "B",
+            "value": "Đường trung tuyến"
+          },
+          {
+            "id": "C",
+            "value": "Đường cao"
+          },
+          {
+            "id": "D",
+            "value": "Đường phân giác"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Những nhân vật sau thuộc về bộ phim nổi tiếng nào?",
+        "ans": "A",
+        "type": "image",
+        "url": "C5-NT-L2.jpg",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Game of Thrones"
+          },
+          {
+            "id": "B",
+            "value": "Stranger Things"
+          },
+          {
+            "id": "C",
+            "value": "The Umbrella Academy"
+          },
+          {
+            "id": "D",
+            "value": "Prison Break"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Kim loại nào có nhiệt độ nóng chảy cao nhất?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Xesi"
+          },
+          {
+            "id": "B",
+            "value": "Wolfram"
+          },
+          {
+            "id": "C",
+            "value": "Osimi"
+          },
+          {
+            "id": "D",
+            "value": "Vàng"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "“Đại hội Thể dục Thể thao toàn quốc” là sự kiện thể thao được tổ chức mấy năm một lần?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "1 năm"
+          },
+          {
+            "id": "B",
+            "value": "2 năm"
+          },
+          {
+            "id": "C",
+            "value": "3 năm"
+          },
+          {
+            "id": "D",
+            "value": " 4 năm"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 2"
+  },
+  {
+    "id": 3,
+    "data": [
+      {
+        "id": 1,
+        "question": " “Thiếu nữ bên hoa Huệ”, “Buổi trưa”, “Hồ chủ tịch làm việc tại Bắc Bộ phủ” là những bức tranh sơn dầu của tác giả nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nguyễn Gia Trí"
+          },
+          {
+            "id": "B",
+            "value": "Tô Ngọc Vân"
+          },
+          {
+            "id": "C",
+            "value": "Nguyễn Tường Lân"
+          },
+          {
+            "id": "D",
+            "value": "Trần Văn Cẩn"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Larry Page và Sergey Brin là hai nhà đồng sáng lập ra trang web nổi tiếng nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Google"
+          },
+          {
+            "id": "B",
+            "value": "Wikipedia"
+          },
+          {
+            "id": "C",
+            "value": "YouTube"
+          },
+          {
+            "id": "D",
+            "value": "Twitter"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Lễ hội đua bò Bảy Núi là lễ hội truyền thống của đồng bào dân tộc nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Thái"
+          },
+          {
+            "id": "B",
+            "value": "Chăm"
+          },
+          {
+            "id": "C",
+            "value": "Tày"
+          },
+          {
+            "id": "D",
+            "value": "Khmer"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "“Lữ đoàn đỏ” là biệt danh của câu lạc bộ bóng đá nào của nước Anh?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Arsenal"
+          },
+          {
+            "id": "B",
+            "value": "Chelsea"
+          },
+          {
+            "id": "C",
+            "value": "Manchester United"
+          },
+          {
+            "id": "D",
+            "value": "Liverpool"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Trong các loài vật sau, loài nào là động vật lưỡng tính?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Giun đất"
+          },
+          {
+            "id": "B",
+            "value": "Giun đũa"
+          },
+          {
+            "id": "C",
+            "value": "Châu chấu"
+          },
+          {
+            "id": "D",
+            "value": "Cá ngựa"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Nữ tiểu thuyết gia người Anh nào được mệnh danh là “nữ hoàng trinh thám”?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "J.K. Rowling"
+          },
+          {
+            "id": "B",
+            "value": "Daniel Steel"
+          },
+          {
+            "id": "C",
+            "value": "Maya Angelou"
+          },
+          {
+            "id": "D",
+            "value": "Agatha Christie"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "In the Solar System, what is the seventh closest planet from the Sun?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Jupiter"
+          },
+          {
+            "id": "B",
+            "value": "Saturn "
+          },
+          {
+            "id": "C",
+            "value": "Uranus "
+          },
+          {
+            "id": "D",
+            "value": "Neptune"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 3"
+  },
+  {
+    "id": 4,
+    "data": [
+      {
+        "id": 1,
+        "question": "Hình ảnh này là ở bộ môn thể thao điện tử nào?",
+        "ans": "C",
+        "type": "image",
+        "url": "C1-LVK-L4.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "FIFA Online 4"
+          },
+          {
+            "id": "B",
+            "value": "Liên Quân Mobile"
+          },
+          {
+            "id": "C",
+            "value": "Liên Minh Huyền Thoại"
+          },
+          {
+            "id": "D",
+            "value": "Genshin Impact"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Vật nào dưới đây không phải là nguồn sáng?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mặt Trời"
+          },
+          {
+            "id": "B",
+            "value": "Ngọn nến đang cháy"
+          },
+          {
+            "id": "C",
+            "value": "Con đom đóm lập lòe"
+          },
+          {
+            "id": "D",
+            "value": "Mặt Trăng"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Trong bài thơ “Bếp lửa” của nhà thơ Bằng Việt có nhắc đến một loài chim. Đó là loài chim nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Chích chòe"
+          },
+          {
+            "id": "B",
+            "value": "Tu hú"
+          },
+          {
+            "id": "C",
+            "value": "Chào mào"
+          },
+          {
+            "id": "D",
+            "value": "Sâm cầm"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Trong các kim loại sau đây, kim loại nào là kim loại lưỡng tính: Fe, Cu, Al?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Fe"
+          },
+          {
+            "id": "B",
+            "value": "Cu"
+          },
+          {
+            "id": "C",
+            "value": "Al"
+          },
+          {
+            "id": "D",
+            "value": "Không có "
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Quốc gia nào nổi tiếng với thương hiệu xì gà Lahabana?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mexico"
+          },
+          {
+            "id": "B",
+            "value": "Peru"
+          },
+          {
+            "id": "C",
+            "value": "Cuba"
+          },
+          {
+            "id": "D",
+            "value": "Chile"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Hai chị em Trương Thảo My và Trương Thảo Vy (thường được gọi là Trương Twins) là những vận động viên nổi bật ở bộ môn thể thao nào tại kì SEA Games 31 vừa qua?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bóng rổ"
+          },
+          {
+            "id": "B",
+            "value": "Bóng chuyền"
+          },
+          {
+            "id": "C",
+            "value": "Bóng bàn"
+          },
+          {
+            "id": "D",
+            "value": "Bóng ném"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Loài chim duy nhất nào có khả năng bay ngược?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Chim ruồi"
+          },
+          {
+            "id": "B",
+            "value": "Bói cá"
+          },
+          {
+            "id": "C",
+            "value": "Hồng hạc"
+          },
+          {
+            "id": "D",
+            "value": "Chim trĩ vàng"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 4"
+  },
+  {
+    "id": 5,
+    "data": [
+      {
+        "id": 1,
+        "question": "Trong 3 anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ thì ai là vị vua đầu tiên của triều Tây Sơn?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nguyễn Nhạc"
+          },
+          {
+            "id": "B",
+            "value": "Nguyễn Huệ"
+          },
+          {
+            "id": "C",
+            "value": "Nguyễn Lữ"
+          },
+          {
+            "id": "D",
+            "value": "Không có ai làm vua"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Mèo tam thể đa phần là mèo đực hay mèo cái?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mèo đực"
+          },
+          {
+            "id": "B",
+            "value": "Mèo cái "
+          },
+          {
+            "id": "C",
+            "value": ""
+          },
+          {
+            "id": "D",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Quảng trường Thời Đại (Times Square) nằm ở thành phố nào của Mỹ?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "California"
+          },
+          {
+            "id": "B",
+            "value": "Los Angeles"
+          },
+          {
+            "id": "C",
+            "value": "Washington D.C."
+          },
+          {
+            "id": "D",
+            "value": "New York"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Muhammad Ali là vận động viên nổi tiếng của môn thể thao nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bóng bầu dục"
+          },
+          {
+            "id": "B",
+            "value": "Bóng chày"
+          },
+          {
+            "id": "C",
+            "value": "Quyền anh"
+          },
+          {
+            "id": "D",
+            "value": "Golf"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Khi đi ngang qua các nguồn nước bị ô nhiễm, ta thường ngửi thấy mùi trứng thối. Đó là do loại khí nào gây nên?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "H2S"
+          },
+          {
+            "id": "B",
+            "value": "SO2"
+          },
+          {
+            "id": "C",
+            "value": "SO3"
+          },
+          {
+            "id": "D",
+            "value": "CH4"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Chú chim cánh cụt Tux là logo của hệ điều hành nào?",
+        "ans": "D",
+        "type": "image",
+        "url": "C6-Tin-L5.jpg",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Windows"
+          },
+          {
+            "id": "B",
+            "value": "Syllable"
+          },
+          {
+            "id": "C",
+            "value": "Solaris"
+          },
+          {
+            "id": "D",
+            "value": "Linux"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Written by To Hoai, it’s one of the most popular books for children. Which animal is the main character of this book?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Cricket"
+          },
+          {
+            "id": "B",
+            "value": "Cicada"
+          },
+          {
+            "id": "C",
+            "value": "Mantis"
+          },
+          {
+            "id": "D",
+            "value": "Worm"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 5"
+  },
+  {
+    "id": 6,
+    "data": [
+      {
+        "id": 1,
+        "question": "Sao Hôm và Sao Mai là tên gọi dân gian của hành tinh nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Sao Thủy"
+          },
+          {
+            "id": "B",
+            "value": "Sao Kim"
+          },
+          {
+            "id": "C",
+            "value": "Sao Hỏa"
+          },
+          {
+            "id": "D",
+            "value": "Sao Mộc"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "“Thép đã tôi thế đấy” là tác phẩm xuất sắc của nền văn học quốc gia nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Belarus"
+          },
+          {
+            "id": "B",
+            "value": "Ukraina"
+          },
+          {
+            "id": "C",
+            "value": "Nga"
+          },
+          {
+            "id": "D",
+            "value": "Croatia"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Tìm số tiếp theo trong dãy số sau: 3 ; 4 ; 6 ; 10 ; 18 ; ...",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "32"
+          },
+          {
+            "id": "B",
+            "value": "34"
+          },
+          {
+            "id": "C",
+            "value": "36"
+          },
+          {
+            "id": "D",
+            "value": "38"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "FIVB là cơ quan điều hành quốc tế của môn thể thao nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bóng chuyền"
+          },
+          {
+            "id": "B",
+            "value": "Bóng bàn"
+          },
+          {
+            "id": "C",
+            "value": "Bóng rổ"
+          },
+          {
+            "id": "D",
+            "value": "Bóng bầu dục"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Chiến thắng Ngọc Hồi - Ðống Ða lịch sử đã đánh đuổi 29 vạn quân xâm lược nào?\n",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tống"
+          },
+          {
+            "id": "B",
+            "value": "Nguyên - Mông"
+          },
+          {
+            "id": "C",
+            "value": "Minh "
+          },
+          {
+            "id": "D",
+            "value": "Mãn Thanh"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Giza is the name of the biggest one in a series of ancient architecture. What do we call them?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lighthouse"
+          },
+          {
+            "id": "B",
+            "value": "Colosseum"
+          },
+          {
+            "id": "C",
+            "value": "Pyramids"
+          },
+          {
+            "id": "D",
+            "value": "Mausoleum"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Poster sau là của bộ phim kinh dị nổi tiếng nào?",
+        "ans": "D",
+        "type": "image",
+        "url": "C7-NT-L6.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ám ảnh kinh hoàng (The Conjuring)"
+          },
+          {
+            "id": "B",
+            "value": "Quỷ ám (The Exorcist)"
+          },
+          {
+            "id": "C",
+            "value": "Quỷ quyệt (Insidious)"
+          },
+          {
+            "id": "D",
+            "value": "Sự im lặng của bầy cừu (The Silence of the Lambs)"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 6"
+  },
+  {
+    "id": 7,
+    "data": [
+      {
+        "id": 1,
+        "question": "Tom Yum là món ăn nổi tiếng của đất nước nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lào"
+          },
+          {
+            "id": "B",
+            "value": "Cam-pu-chia"
+          },
+          {
+            "id": "C",
+            "value": "Myanmar"
+          },
+          {
+            "id": "D",
+            "value": "Thái Lan"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Nhà khoa học nào là người duy nhất giành được hai giải Nobel ở hai lĩnh vực Vật lý và Hóa học?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Marie Curie"
+          },
+          {
+            "id": "B",
+            "value": "Pierre Curie"
+          },
+          {
+            "id": "C",
+            "value": "Linus Pauling"
+          },
+          {
+            "id": "D",
+            "value": "Isaac Newton"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Nhà văn người Pháp nào đã được trao Giải Nobel Văn học năm 2022 “vì lòng dũng cảm và sự nhạy bén mà nhà văn này đã sử dụng để khám phá gốc rễ, sự bất hòa và những hạn chế của ký ức cá nhân”?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mircea Cartarescu"
+          },
+          {
+            "id": "B",
+            "value": "Annie Ernaux"
+          },
+          {
+            "id": "C",
+            "value": "Jon Fosse"
+          },
+          {
+            "id": "D",
+            "value": "Garielle Lutz"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Vào năm 2008, toàn bộ diện tích và dân số của tỉnh nào được sáp nhập vào thành phố Hà Nội?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Hà Đông"
+          },
+          {
+            "id": "B",
+            "value": "Hà Tây"
+          },
+          {
+            "id": "C",
+            "value": "Hà Nam"
+          },
+          {
+            "id": "D",
+            "value": "Hà Bắc"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "“Think Different” là câu slogan của hãng nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": " Samsung"
+          },
+          {
+            "id": "B",
+            "value": "Apple"
+          },
+          {
+            "id": "C",
+            "value": "Microsoft"
+          },
+          {
+            "id": "D",
+            "value": "Nokia"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Hình ảnh dưới đây xuất hiện trong MV Pink Venom của nhóm nhạc nào?",
+        "ans": "D",
+        "type": "image",
+        "url": "C6-NT-L7.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "SNSD"
+          },
+          {
+            "id": "B",
+            "value": "T-ara"
+          },
+          {
+            "id": "C",
+            "value": "TWICE"
+          },
+          {
+            "id": "D",
+            "value": "BlackPink"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Vị giáo sư nào nổi tiếng với “Phương pháp mổ gan khô” và có những công lao to lớn trong nền Y học nước nhà?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tôn Thất Tùng"
+          },
+          {
+            "id": "B",
+            "value": "Phạm Ngọc Thạch"
+          },
+          {
+            "id": "C",
+            "value": "Đặng Văn Ngữ"
+          },
+          {
+            "id": "D",
+            "value": "Nguyễn Tài Thu"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 7"
+  },
+  {
+    "id": 8,
+    "data": [
+      {
+        "id": 1,
+        "question": "Lực tác động bởi chất lỏng hoặc chất khí lên vật đặt yên trong nó, cùng phương, ngược hướng với trọng lực được gọi là gì?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lực Coriolis"
+          },
+          {
+            "id": "B",
+            "value": "Lực đẩy Bernoulli"
+          },
+          {
+            "id": "C",
+            "value": "Lực đẩy Archimedes"
+          },
+          {
+            "id": "D",
+            "value": "Lực Hooke"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "“Cái bánh ngọt cho chủ nghĩa thực dân” là hình ảnh miêu tả quốc gia nào trong nửa cuối thế kỉ XIX?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Thái Lan"
+          },
+          {
+            "id": "B",
+            "value": "Nhật Bản"
+          },
+          {
+            "id": "C",
+            "value": "Việt Nam"
+          },
+          {
+            "id": "D",
+            "value": "Trung Quốc"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Kiểu học phối hợp các kinh nghiệm cũ để tìm cách giải quyết những tình huống mới được gọi là gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Học ngầm"
+          },
+          {
+            "id": "B",
+            "value": "Học khôn"
+          },
+          {
+            "id": "C",
+            "value": "Quen nhờn"
+          },
+          {
+            "id": "D",
+            "value": "In vết"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Theo lời Chủ tịch Hồ Chí Minh, “thứ của cải vô cùng lâu đời và vô cùng quý báu của dân tộc” là gì?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tinh thần đoàn kết"
+          },
+          {
+            "id": "B",
+            "value": "Lòng yêu nước"
+          },
+          {
+            "id": "C",
+            "value": "Trang phục truyền thống"
+          },
+          {
+            "id": "D",
+            "value": "Tiếng Việt"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Trong Microsoft Excel 2019, để tính tích của các số, ta sử dụng hàm gì?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "PRODUCT"
+          },
+          {
+            "id": "B",
+            "value": "EVEN"
+          },
+          {
+            "id": "C",
+            "value": "AVERAGE"
+          },
+          {
+            "id": "D",
+            "value": "SUM"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": " “Cù lao Ré” là tên gọi dân gian của huyện đảo nào ở nước ta?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lý Sơn"
+          },
+          {
+            "id": "B",
+            "value": " Cô Tô"
+          },
+          {
+            "id": "C",
+            "value": "Phú Quốc"
+          },
+          {
+            "id": "D",
+            "value": "Phú Quý"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Một người sinh vào ngày thứ 3 năm 35 trước Công Nguyên và mất vào ngày thứ 3 năm 35 sau Công nguyên, trải qua một đời người với nhiều biến động và chứng kiến nhiều sự kiện lịch sử. Bạn hãy cho biết người này thọ bao nhiêu tuổi?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "68 tuổi"
+          },
+          {
+            "id": "B",
+            "value": "69 tuổi"
+          },
+          {
+            "id": "C",
+            "value": "70 tuổi"
+          },
+          {
+            "id": "D",
+            "value": "71 tuổi"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 8"
+  },
+  {
+    "id": 9,
+    "data": [
+      {
+        "id": 1,
+        "question": "“Đường đua xanh” là danh từ để chỉ môn thể thao nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đua ngựa"
+          },
+          {
+            "id": "B",
+            "value": "Đua thuyền"
+          },
+          {
+            "id": "C",
+            "value": "Bơi lội"
+          },
+          {
+            "id": "D",
+            "value": "Đua xe đạp"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "According to the RGB colour model, which colour is produced by combining red with green?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Blue"
+          },
+          {
+            "id": "B",
+            "value": "Yellow"
+          },
+          {
+            "id": "C",
+            "value": "Purple"
+          },
+          {
+            "id": "D",
+            "value": "Brown"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": " Biển báo sau đây có ý nghĩa gì?",
+        "ans": "D",
+        "type": "image",
+        "url": "C3-PL-L9.jpg",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Giao nhau với đường ưu tiên"
+          },
+          {
+            "id": "B",
+            "value": "Giao nhau có tín hiệu đèn"
+          },
+          {
+            "id": "C",
+            "value": "Giao nhau của đường đồng cấp"
+          },
+          {
+            "id": "D",
+            "value": "Giao nhau theo vòng xuyến"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Tỉnh nào có diện tích lớn nhất nước ta?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nghệ An"
+          },
+          {
+            "id": "B",
+            "value": "Gia Lai"
+          },
+          {
+            "id": "C",
+            "value": "Sơn La"
+          },
+          {
+            "id": "D",
+            "value": "Thanh Hóa"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Tuyến nội tiết lớn nhất cơ thể là tuyến nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tuyến giáp"
+          },
+          {
+            "id": "B",
+            "value": "Tuyến yên"
+          },
+          {
+            "id": "C",
+            "value": "Tuyến tụy"
+          },
+          {
+            "id": "D",
+            "value": "Tuyến tùng"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Nhà văn Mỹ nào đã đề xuất ra nguyên lý “tảng băng trôi”?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mario Puzo"
+          },
+          {
+            "id": "B",
+            "value": "Ernest Hemingway"
+          },
+          {
+            "id": "C",
+            "value": "Mark Twain"
+          },
+          {
+            "id": "D",
+            "value": "Stephen King"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Bốn vật kích thước nhỏ A, B, C, D nhiễm điện. Vật A hút vật B nhưng đẩy vật C, vật C hút vật D. Biết A nhiễm điện dương. Hỏi D nhiễm điện gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Dương"
+          },
+          {
+            "id": "B",
+            "value": " Âm"
+          },
+          {
+            "id": "C",
+            "value": "Không nhiễm điện"
+          },
+          {
+            "id": "D",
+            "value": ""
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 9"
+  },
+  {
+    "id": 10,
+    "data": [
+      {
+        "id": 1,
+        "question": "Cứ bao nhiêu năm thì tên các năm âm lịch (trùng cả Can, Chi) được lặp lại?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "30 năm"
+          },
+          {
+            "id": "B",
+            "value": "40 năm"
+          },
+          {
+            "id": "C",
+            "value": "50 năm"
+          },
+          {
+            "id": "D",
+            "value": "60 năm"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Giải thưởng danh giá mà YouTube dành cho chủ sở hữu kênh có lượng subsribe (lượt theo dõi) trên 1 triệu là gì?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nút Kim cương đỏ"
+          },
+          {
+            "id": "B",
+            "value": "Nút Kim cương"
+          },
+          {
+            "id": "C",
+            "value": "Nút Vàng"
+          },
+          {
+            "id": "D",
+            "value": "Nút Bạc"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Trung tướng - Anh hùng nào là người châu Á đầu tiên và cũng là người Việt Nam đầu tiên bay vào vũ trụ?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Phạm Tuân"
+          },
+          {
+            "id": "B",
+            "value": "Cù Chính Lan"
+          },
+          {
+            "id": "C",
+            "value": "Hoàng Lê Kha"
+          },
+          {
+            "id": "D",
+            "value": "Huỳnh Văn Nghệ"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Nguyên tố hoá học nào được sử dụng nhiều nhất trong việc chế tạo con chip vi tính?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Xesi (Cs)"
+          },
+          {
+            "id": "B",
+            "value": "Silic (Si)"
+          },
+          {
+            "id": "C",
+            "value": "Titan (Ti)"
+          },
+          {
+            "id": "D",
+            "value": "Niken (Ni)"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Đội tuyển bóng đá nam quốc gia của Việt Nam đã giành được bao nhiêu Huy chương vàng tại các kì SEA Games?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "2"
+          },
+          {
+            "id": "B",
+            "value": "3"
+          },
+          {
+            "id": "C",
+            "value": "3"
+          },
+          {
+            "id": "D",
+            "value": "5"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Có thế xác định giới tính của cá sấu thông qua thông số nào của trứng?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Kích thước"
+          },
+          {
+            "id": "B",
+            "value": "Màu sắc"
+          },
+          {
+            "id": "C",
+            "value": "Nhiệt độ"
+          },
+          {
+            "id": "D",
+            "value": "Độ cứng"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Tỉnh Đồng Nai có 11 đơn vị hành chính cấp huyện, bao gồm 2 thành phố (Biên Hòa, Long Khánh) và 9 huyện (Trảng Bom, Long Thành, Nhơn Trạch, Xuân Lộc, Định Quán, Tân Phú, Thống Nhất, Cẩm Mỹ, Vĩnh Cửu). Bạn hãy cho biết, đơn vị hành chính nào có diện tích lớn nhất tỉnh Đồng Nai?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Biên Hòa"
+          },
+          {
+            "id": "B",
+            "value": "Long Khánh"
+          },
+          {
+            "id": "C",
+            "value": "Vĩnh Cửu"
+          },
+          {
+            "id": "D",
+            "value": "Thống Nhất"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 10"
+  },
+  {
+    "id": 11,
+    "data": [
+      {
+        "id": 1,
+        "question": "Trong Truyện Kiều, Nguyễn Du đã miêu tả ai qua câu thơ “Mày râu nhẵn nhụi, áo quần bảnh bao”?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Thúc Sinh"
+          },
+          {
+            "id": "B",
+            "value": "Từ Hải"
+          },
+          {
+            "id": "C",
+            "value": "Mã Giám Sinh"
+          },
+          {
+            "id": "D",
+            "value": "Kim Trọng"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Trong 4 nhóm máu chính ở người: O, AB, A, B, người có nhóm máu nào có thể hiến máu mà cả 4 nhóm máu trên đều nhận được?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nhóm máu O"
+          },
+          {
+            "id": "B",
+            "value": "Nhóm máu AB"
+          },
+          {
+            "id": "C",
+            "value": "Nhóm máu A"
+          },
+          {
+            "id": "D",
+            "value": "Nhóm máu B"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "TP.Đà Lạt là thành phố trực thuộc tỉnh nào của nước ta?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lâm Đồng"
+          },
+          {
+            "id": "B",
+            "value": "Bình Thuận"
+          },
+          {
+            "id": "C",
+            "value": "Bình Phước"
+          },
+          {
+            "id": "D",
+            "value": "Ninh Thuận"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Nguyên lý vắt khô quần áo của máy giặt cửa trên dựa trên tác động của lực nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lực vắt"
+          },
+          {
+            "id": "B",
+            "value": "Lực ma sát"
+          },
+          {
+            "id": "C",
+            "value": "Lực hướng tâm"
+          },
+          {
+            "id": "D",
+            "value": "Lực li tâm"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Giải thưởng thường niên nào được cho là ngược lại với giải Oscar, khi trao giải cho những bộ phim bị cho là kém thành công nhất trong năm?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ig Nobel"
+          },
+          {
+            "id": "B",
+            "value": "Cannes"
+          },
+          {
+            "id": "C",
+            "value": "Quả cầu Vàng"
+          },
+          {
+            "id": "D",
+            "value": "Mâm xôi vàng"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Diễm có 6 quyển vở, Yến có 3 quyển vở. Hai bạn góp số vở của mình với số vở của bạn Sơn, rồi chia đều cho nhau. Sơn tính rằng mình phải trả các bạn đúng 900 đồng. Tính giá tiền một quyển vở, biết rằng cả 3 bạn đều mua cùng một loại vở.",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "180 đồng"
+          },
+          {
+            "id": "B",
+            "value": "300 đồng"
+          },
+          {
+            "id": "C",
+            "value": "450 đồng"
+          },
+          {
+            "id": "D",
+            "value": "900 đồng"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Nhà máy thủy điện Trị An (thuộc huyện Vĩnh Cửu, tỉnh Đồng Nai) xuất hiện trên tờ tiền Việt Nam có mệnh giá bao nhiêu?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "2.000 đồng"
+          },
+          {
+            "id": "B",
+            "value": "5.000 đồng"
+          },
+          {
+            "id": "C",
+            "value": "10.000 đồng"
+          },
+          {
+            "id": "D",
+            "value": "20.000 đồng"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 11"
+  },
+  {
+    "id": 12,
+    "data": [
+      {
+        "id": 1,
+        "question": "Nomophobia là hội chứng sợ hãi khi không có thiết bị gì bên cạnh?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Laptop"
+          },
+          {
+            "id": "B",
+            "value": "Thức ăn"
+          },
+          {
+            "id": "C",
+            "value": "Tiền"
+          },
+          {
+            "id": "D",
+            "value": "Điện thoại di động"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Nhà thơ nào là tác giả của “Bài thơ về tiểu đội xe không kính”?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tố Hữu"
+          },
+          {
+            "id": "B",
+            "value": "Phạm Tiến Duật"
+          },
+          {
+            "id": "C",
+            "value": "Huy Cận"
+          },
+          {
+            "id": "D",
+            "value": "Hữu Thỉnh"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Khi mở một chai bia ta phải dùng đồ mở nắp, đây là ứng dụng của loại máy cơ đơn giản nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ròng rọc động"
+          },
+          {
+            "id": "B",
+            "value": "Ròng rọc cố định"
+          },
+          {
+            "id": "C",
+            "value": "Mặt phẳng nghiêng"
+          },
+          {
+            "id": "D",
+            "value": "Đòn bẩy"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "“Vasco da Gama” là cây cầu băng qua cửa sông Tagus để vào thành phố Lisbon. Hãy cho biết, cây cầu này nằm ở quốc gia nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Phần Lan"
+          },
+          {
+            "id": "B",
+            "value": "Na Uy"
+          },
+          {
+            "id": "C",
+            "value": "Tây Ban Nha"
+          },
+          {
+            "id": "D",
+            "value": "Bồ Đào Nha"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Loại mạch nào của lá chủ yếu giúp vận chuyển nước và muối khoáng?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mạch gỗ"
+          },
+          {
+            "id": "B",
+            "value": "Mạch rây"
+          },
+          {
+            "id": "C",
+            "value": ""
+          },
+          {
+            "id": "D",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Theo luật pháp Việt Nam quy định, độ tuổi kết hôn của nam là từ đủ bao nhiêu tuổi trở lên?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "18"
+          },
+          {
+            "id": "B",
+            "value": "19"
+          },
+          {
+            "id": "C",
+            "value": "20"
+          },
+          {
+            "id": "D",
+            "value": "21"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Làng Tân Triều, huyện Vĩnh Cửu, tỉnh Đồng Nai nổi tiếng với một loại trái cây đặc trưng. Đó là quả gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mãng cầu"
+          },
+          {
+            "id": "B",
+            "value": "Bưởi"
+          },
+          {
+            "id": "C",
+            "value": "Đu đủ"
+          },
+          {
+            "id": "D",
+            "value": "Quất"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 12"
+  },
+  {
+    "id": 13,
+    "data": [
+      {
+        "id": 1,
+        "question": "Mạng điện xoay chiều dân dụng ở nước ta có điện áp hiệu dụng bằng bao nhiêu?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "220kV"
+          },
+          {
+            "id": "B",
+            "value": "220V"
+          },
+          {
+            "id": "C",
+            "value": "500kV"
+          },
+          {
+            "id": "D",
+            "value": " 500V"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "“Hiền tài là nguyên khí của quốc gia” là câu nói của vị Tiến sĩ nào thời nhà Hậu Lê?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ngô Thì Nhậm"
+          },
+          {
+            "id": "B",
+            "value": "Thân Nhân Trung"
+          },
+          {
+            "id": "C",
+            "value": "Nguyễn Trãi"
+          },
+          {
+            "id": "D",
+            "value": "Lương Thế Vinh"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Tay vợt nam trong ảnh dưới đây là người đầu tiên giành được 22 danh hiệu Grand Slam danh giá trong bộ môn quần vợt. Hãy cho biết anh tên là gì?",
+        "ans": "B",
+        "type": "image",
+        "url": "C3-TT-L13.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Roger Federer"
+          },
+          {
+            "id": "B",
+            "value": "Rafael Nadal"
+          },
+          {
+            "id": "C",
+            "value": "Novak Djokovic"
+          },
+          {
+            "id": "D",
+            "value": "Andy Murray"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "How many 1x1 squares are there on the chessboard?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "48"
+          },
+          {
+            "id": "B",
+            "value": "56"
+          },
+          {
+            "id": "C",
+            "value": "64"
+          },
+          {
+            "id": "D",
+            "value": "72"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Wall Street là một địa danh nổi tiếng ở New York trong lĩnh vực nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Điện ảnh"
+          },
+          {
+            "id": "B",
+            "value": " Âm nhạc"
+          },
+          {
+            "id": "C",
+            "value": "Ẩm thực"
+          },
+          {
+            "id": "D",
+            "value": "Tài chính"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Chất này là một dạng thù hình của oxi, màu xanh nhạt, có tính oxi hóa mạnh, được dùng để tẩy trắng, khử trùng. Trong y khoa, nó được dùng để chữa sâu răng. Đây là chất nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "H2O2"
+          },
+          {
+            "id": "B",
+            "value": "O3"
+          },
+          {
+            "id": "C",
+            "value": "OF2"
+          },
+          {
+            "id": "D",
+            "value": "O4"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Câu nói: “Tao chỉ biết đứng, không biết quỳ” là câu nói nổi tiếng của nữ anh hùng lịch sử nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nguyễn Thị Minh Khai"
+          },
+          {
+            "id": "B",
+            "value": "Nguyễn Thị Định"
+          },
+          {
+            "id": "C",
+            "value": "Võ Thị Sáu"
+          },
+          {
+            "id": "D",
+            "value": "Võ Thị Thắng"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 13"
+  },
+  {
+    "id": 14,
+    "data": [
+      {
+        "id": 1,
+        "question": "Theo khuyến cáo của WHO, các bà mẹ nên nuôi con hoàn toàn bằng sữa mẹ ít nhất trong bao lâu?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "3 tháng"
+          },
+          {
+            "id": "B",
+            "value": "6 tháng"
+          },
+          {
+            "id": "C",
+            "value": "9 tháng"
+          },
+          {
+            "id": "D",
+            "value": "12 tháng"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Nhà thơ Trung Quốc nào được mệnh danh là “Thi Tiên”?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đỗ Phủ"
+          },
+          {
+            "id": "B",
+            "value": "Bạch Cư Dị"
+          },
+          {
+            "id": "C",
+            "value": "Tào Tuyết Cần"
+          },
+          {
+            "id": "D",
+            "value": "Lý Bạch"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Quá trình chuyển từ thể khí sang thể lỏng được gọi là gì?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đông đặc"
+          },
+          {
+            "id": "B",
+            "value": "Thăng hoa"
+          },
+          {
+            "id": "C",
+            "value": "Ngưng tụ"
+          },
+          {
+            "id": "D",
+            "value": "Bay hơi"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Today, I and my classmates have a trip to Hoi An. There are 400 people. We travel by bus. A bus can bring 60 people. So, how many bus do we need at least?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Six"
+          },
+          {
+            "id": "B",
+            "value": "Seven"
+          },
+          {
+            "id": "C",
+            "value": "Eight"
+          },
+          {
+            "id": "D",
+            "value": "Nine"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Múa ballet là môn nghệ thuật có nguồn gốc từ đất nước nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Pháp"
+          },
+          {
+            "id": "B",
+            "value": "Thụy Điển"
+          },
+          {
+            "id": "C",
+            "value": "Ý"
+          },
+          {
+            "id": "D",
+            "value": "Hà Lan"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Ai là người phát minh ra máy hơi nước chính là nền tảng cho cuộc Cách mạng công nghiệp Anh?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "James Watt"
+          },
+          {
+            "id": "B",
+            "value": "Isaac Newton"
+          },
+          {
+            "id": "C",
+            "value": "Thomas Edison"
+          },
+          {
+            "id": "D",
+            "value": "Nikola Tesla"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Hiện nay, thành phố Biên Hòa đã được công nhận là đô thị loại mấy?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Loại III"
+          },
+          {
+            "id": "B",
+            "value": "Loại II"
+          },
+          {
+            "id": "C",
+            "value": "Loại I"
+          },
+          {
+            "id": "D",
+            "value": "Loại đặc biệt"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 14"
+  },
+  {
+    "id": 15,
+    "data": [
+      {
+        "id": 1,
+        "question": "Ai là người đã cho xây dựng thành Vạn An để chống quân xâm lược nhà Đường?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lý Bí"
+          },
+          {
+            "id": "B",
+            "value": "Khúc Thừa Dụ"
+          },
+          {
+            "id": "C",
+            "value": "Phùng Hưng"
+          },
+          {
+            "id": "D",
+            "value": "Mai Thúc Loan"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which is the sixth planet in the Solar System?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mars"
+          },
+          {
+            "id": "B",
+            "value": "Jupiter"
+          },
+          {
+            "id": "C",
+            "value": "Saturn"
+          },
+          {
+            "id": "D",
+            "value": "Uranus"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "“Hành trình đỏ” là chiến dịch nhân đạo cấp Quốc gia với nhiệm vụ trọng tâm là vận động toàn dân tham gia hoạt động gì?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tiêm chủng"
+          },
+          {
+            "id": "B",
+            "value": "An toàn cho ngư dân nghèo, khó khăn"
+          },
+          {
+            "id": "C",
+            "value": "Dinh dưỡng cho trẻ em nghèo, khuyết tật"
+          },
+          {
+            "id": "D",
+            "value": "Hiến máu nhân đạo"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Khi nhà hoá học Joseph Black phân tích đá phấn và đá vôi, ông đã tìm ra một loại khí mà ông gọi là “khí cố định”. Đó là khí gì?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "CO2"
+          },
+          {
+            "id": "B",
+            "value": "CO"
+          },
+          {
+            "id": "C",
+            "value": "CH4"
+          },
+          {
+            "id": "D",
+            "value": "C2H4"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Cây cầu dây văng đầu tiên bắc qua sông Mekong của nước ta là cây cầu nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Cầu Rạch Miễu"
+          },
+          {
+            "id": "B",
+            "value": "Cầu Hàm Luông"
+          },
+          {
+            "id": "C",
+            "value": "Cầu Vàm Cống"
+          },
+          {
+            "id": "D",
+            "value": "Cầu Mỹ Thuận"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Nhà văn người Mỹ nào sinh ra vào chính ngày sao chổi Halley xuất hiện năm 1835 và mất đúng vào lần sao chổi Halley xuất hiện lần sau năm 1910?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mark Twain"
+          },
+          {
+            "id": "B",
+            "value": "Harper Lee"
+          },
+          {
+            "id": "C",
+            "value": "Ken Kesey"
+          },
+          {
+            "id": "D",
+            "value": "William Faulkner"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Lá nhỏ, mềm, mầm đỉnh bị chết là biểu hiện triệu chứng cây bị thiếu chất gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Magie"
+          },
+          {
+            "id": "B",
+            "value": "Canxi"
+          },
+          {
+            "id": "C",
+            "value": "Carbon"
+          },
+          {
+            "id": "D",
+            "value": "Natri"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 15"
+  },
+  {
+    "id": 16,
+    "data": [
+      {
+        "id": 1,
+        "question": "Khi soạn thảo văn bản bằng phần mềm Microsoft Word, để tô đậm một từ thì ta chọn (bôi đen) từ đó và nhấn tổ hợp phím nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ctrl + I"
+          },
+          {
+            "id": "B",
+            "value": "Ctrl + U"
+          },
+          {
+            "id": "C",
+            "value": "Ctrl + B"
+          },
+          {
+            "id": "D",
+            "value": "Ctrl + L"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "ABBA là nhóm nhạc huyền thoại của quốc gia nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Thụy Sỹ"
+          },
+          {
+            "id": "B",
+            "value": "Thụy Điển"
+          },
+          {
+            "id": "C",
+            "value": "Hoa Kỳ"
+          },
+          {
+            "id": "D",
+            "value": "Pháp"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Ai là người lập ra dòng Thiền Trúc Lâm Đại Việt?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Trần Anh Tông"
+          },
+          {
+            "id": "B",
+            "value": "Trần Nhân Tông"
+          },
+          {
+            "id": "C",
+            "value": "Trần Thánh Tông"
+          },
+          {
+            "id": "D",
+            "value": "Trần Thái Tông"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Hãy cho biết số điện thoại khẩn cấp của Tổng đài quốc gia về bảo vệ trẻ em.",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "100"
+          },
+          {
+            "id": "B",
+            "value": "101"
+          },
+          {
+            "id": "C",
+            "value": "110"
+          },
+          {
+            "id": "D",
+            "value": "111"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Huy chương vàng đầu tiên của Việt Nam tại cuộc thi Paralympic thuộc về bộ môn nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bắn súng"
+          },
+          {
+            "id": "B",
+            "value": "Đấu kiếm"
+          },
+          {
+            "id": "C",
+            "value": "Taekwondo"
+          },
+          {
+            "id": "D",
+            "value": "Cử tạ"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Leonhard Euler là nhà toán học nổi tiếng người nước nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Anh"
+          },
+          {
+            "id": "B",
+            "value": "Na Uy"
+          },
+          {
+            "id": "C",
+            "value": "Thụy Sỹ"
+          },
+          {
+            "id": "D",
+            "value": "Hy Lạp"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Theo điều 30 Luật nghĩa vụ quân sự 2015 và điều 4 thông tư 140/2015/TT-BQP, công dân được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ thì độ tuổi gọi nhập ngũ đến hết bao nhiêu tuổi?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "28 tuổi"
+          },
+          {
+            "id": "B",
+            "value": "27 tuổi"
+          },
+          {
+            "id": "C",
+            "value": "26 tuổi"
+          },
+          {
+            "id": "D",
+            "value": "25 tuổi"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 16"
+  },
+  {
+    "id": 17,
+    "data": [
+      {
+        "id": 1,
+        "question": "Ở các giao lộ, đoạn đường leo dốc, người ta thường đặt loại gương nào để tránh tai nạn?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Gương phẳng"
+          },
+          {
+            "id": "B",
+            "value": "Gương cầu lõm"
+          },
+          {
+            "id": "C",
+            "value": "Gương cầu lồi"
+          },
+          {
+            "id": "D",
+            "value": "Tùy vị trí mà đặt loại gương phù hợp"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Quốc lộ 1A không đi qua thành phố trực thuộc Trung ương nào của nước ta?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Quảng Ninh"
+          },
+          {
+            "id": "B",
+            "value": "Hải Phòng"
+          },
+          {
+            "id": "C",
+            "value": "Đà Nẵng"
+          },
+          {
+            "id": "D",
+            "value": "Cần Thơ"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Ryder cup là cuộc thi dành cho môn thể thao nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bowling"
+          },
+          {
+            "id": "B",
+            "value": "Tennis"
+          },
+          {
+            "id": "C",
+            "value": "Golf"
+          },
+          {
+            "id": "D",
+            "value": "Hockey"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "“Hỏa ngục”, “Pháo đài số”, “Điểm dối lừa” là những tác phẩm nổi tiếng của nhà văn người Mỹ nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Stephenie Meyer"
+          },
+          {
+            "id": "B",
+            "value": "Dan Brown"
+          },
+          {
+            "id": "C",
+            "value": "Suzanne Collins"
+          },
+          {
+            "id": "D",
+            "value": "George R.R. Martin"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Từ năm 1993, Liên Hiệp Quốc đã chọn ngày 22 tháng 3 hàng năm làm Ngày … Thế giới.",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nước"
+          },
+          {
+            "id": "B",
+            "value": "Môi trường"
+          },
+          {
+            "id": "C",
+            "value": "Đất"
+          },
+          {
+            "id": "D",
+            "value": "Bảo tồn Tầng Ozone"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Snail is scared of which kind of basic spice?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Sugar"
+          },
+          {
+            "id": "B",
+            "value": "Garlic"
+          },
+          {
+            "id": "C",
+            "value": "Chili"
+          },
+          {
+            "id": "D",
+            "value": "Salt"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Sắp xếp các vị trí đo thân nhiệt ở người bình thường sau đây theo thứ tự giảm dần về nhiệt độ: miệng, nách, hậu môn.",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Hậu môn, nách, miệng"
+          },
+          {
+            "id": "B",
+            "value": "Hậu môn, miệng, nách"
+          },
+          {
+            "id": "C",
+            "value": "Miệng, nách, hậu môn"
+          },
+          {
+            "id": "D",
+            "value": "Nách, miệng, hậu môn"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 17"
+  },
+  {
+    "id": 18,
+    "data": [
+      {
+        "id": 1,
+        "question": "Đây là logo của câu lạc bộ bóng đá nào?",
+        "ans": "B",
+        "type": "image",
+        "url": "C1-TT-L18.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Arsenal"
+          },
+          {
+            "id": "B",
+            "value": "Manchester United"
+          },
+          {
+            "id": "C",
+            "value": "Nottingham Forest"
+          },
+          {
+            "id": "D",
+            "value": "Manchester City"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Địa chỉ ... là một địa chỉ đơn nhất mà những thiết bị điện tử hiện nay đang sử dụng để nhận diện và liên lạc với nhau trên mạng máy tính.",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "IP"
+          },
+          {
+            "id": "B",
+            "value": "SEO"
+          },
+          {
+            "id": "C",
+            "value": "WWW"
+          },
+          {
+            "id": "D",
+            "value": "HTML"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Logo của Tổ chức Quốc tế về Bảo tồn thiên nhiên (WWF) có hình con gì?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Rắn"
+          },
+          {
+            "id": "B",
+            "value": "Tê giác"
+          },
+          {
+            "id": "C",
+            "value": "Hà mã"
+          },
+          {
+            "id": "D",
+            "value": "Gấu trúc"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "I have lived in Vietnam for 5 years and I love to learn about Vietnamese Culture. I like “Thanh Giong” story most. So can you tell me: What tree did he use to fight his enemy?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mushroom"
+          },
+          {
+            "id": "B",
+            "value": "Cactus"
+          },
+          {
+            "id": "C",
+            "value": "Hawthorn"
+          },
+          {
+            "id": "D",
+            "value": "Bamboo"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Trong các loại bệnh sau, có bao nhiêu bệnh có thể lây truyền từ người sang người: Uốn ván, HIV/AIDS, Viêm gan B, Quai bị, COVID-19?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "2"
+          },
+          {
+            "id": "B",
+            "value": "3"
+          },
+          {
+            "id": "C",
+            "value": "4"
+          },
+          {
+            "id": "D",
+            "value": "5"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Bạn đang được xem poster bộ phim “Tiệc Trăng Máu” của đạo diễn Nguyễn Quang Dũng. Đây là bộ phim được remake rất thành công, từ kịch bản hấp dẫn, dàn diễn viên đình đám cho đến sự đầu tư mạnh tay của đơn vị sản xuất. Hãy cho biết, “Tiệc Trăng Máu” được remake dựa trên kịch bản gốc từ bộ phim của quốc gia nào?",
+        "ans": "D",
+        "type": "image",
+        "url": "C6-NT-L18.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nhật Bản"
+          },
+          {
+            "id": "B",
+            "value": "Hàn Quốc"
+          },
+          {
+            "id": "C",
+            "value": "Pháp"
+          },
+          {
+            "id": "D",
+            "value": "Ý"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Nhà thơ lớn nào đã được Hoài Thanh và Hoài Chân nhận định là “người của hai thế kỷ”, “gạch nối giữa hai thời kỳ văn học cổ điển và hiện đại”?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tản Đà"
+          },
+          {
+            "id": "B",
+            "value": "Xuân Diệu"
+          },
+          {
+            "id": "C",
+            "value": "Huy Cận"
+          },
+          {
+            "id": "D",
+            "value": "Hàn Mặc Tử"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 18"
+  },
+  {
+    "id": 19,
+    "data": [
+      {
+        "id": 1,
+        "question": "Yếu tố máu nào có chức năng cầm máu bằng cách làm máu vón cục và đông lại khi mạch máu bị tổn thương?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bạch cầu"
+          },
+          {
+            "id": "B",
+            "value": "Tiểu cầu "
+          },
+          {
+            "id": "C",
+            "value": "Hồng cầu"
+          },
+          {
+            "id": "D",
+            "value": "Huyết tương"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Trên các bản đồ thế giới cổ xưa, người ta thường ghi tên vị thần nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Demeter"
+          },
+          {
+            "id": "B",
+            "value": "Apollo"
+          },
+          {
+            "id": "C",
+            "value": "Atlas"
+          },
+          {
+            "id": "D",
+            "value": "Zeus"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "“Mưa vẫn mưa bay trên tầng tháp cổ/ Dài tay em mấy thuở mắt xanh xao” là 2 câu hát mở đầu trong bản nhạc nào của nhạc sĩ Trịnh Công Sơn?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Một cõi đi về"
+          },
+          {
+            "id": "B",
+            "value": "Dấu chân địa đàng"
+          },
+          {
+            "id": "C",
+            "value": "Cát bụi"
+          },
+          {
+            "id": "D",
+            "value": "Diễm xưa"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Khí nào sinh ra trong quá trình chín của trái cây có tác dụng kích thích quả mau chín?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Etylen"
+          },
+          {
+            "id": "B",
+            "value": "Axetilen"
+          },
+          {
+            "id": "C",
+            "value": "Propilen"
+          },
+          {
+            "id": "D",
+            "value": "Buten"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Which 17th-century scientist is known for his three laws of (linear) motion?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Galileo Galilei"
+          },
+          {
+            "id": "B",
+            "value": "Isaac Newton"
+          },
+          {
+            "id": "C",
+            "value": "Robert Hooke"
+          },
+          {
+            "id": "D",
+            "value": "Johannes Kepler"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Trong một trận đấu cờ vây bình thường, quân cờ màu nào luôn đi trước?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Màu đen"
+          },
+          {
+            "id": "B",
+            "value": "Màu trắng"
+          },
+          {
+            "id": "C",
+            "value": "Phụ thuộc vào hệ số elo của 2 kì thủ"
+          },
+          {
+            "id": "D",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "“Phía sau nghi can X” là một bộ tiểu thuyết được viết vào năm 2005 bởi một nhà văn người Nhật và là tác phẩm thành công nhất của ông từ trước đến nay. Cuốn tiểu thuyết này đã đem về cho ông vô số giải thưởng, bao gồm giải Naoki lần thứ 134 - giải thưởng vô cùng cao quý tại Nhật. Hãy cho biết, tác giả của “Phía sau nghi can X” là ai?",
+        "ans": "A",
+        "type": "image",
+        "url": "C7-Văn-L19.jpg",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Higashino Keigo"
+          },
+          {
+            "id": "B",
+            "value": "Haruki Murakami"
+          },
+          {
+            "id": "C",
+            "value": "Junichiro Tanizaki"
+          },
+          {
+            "id": "D",
+            "value": "Ishiguro Kazuo"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 19"
+  },
+  {
+    "id": 20,
+    "data": [
+      {
+        "id": 1,
+        "question": "Dự án Loon của Google sử dụng phương tiện nào để cung cấp Internet tới châu Phi?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Khinh khí cầu"
+          },
+          {
+            "id": "B",
+            "value": "Trạm phát sóng cầm tay"
+          },
+          {
+            "id": "C",
+            "value": "Vệ tinh địa tĩnh"
+          },
+          {
+            "id": "D",
+            "value": "Vệ tinh nhân tạo"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Silumin là một hợp kim có độ bền cao cũng như chịu được ăn mòn trong hầu hết môi trường tự nhiên. Silumin là hợp kim của nhôm với nguyên tố nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Niken"
+          },
+          {
+            "id": "B",
+            "value": "Titan"
+          },
+          {
+            "id": "C",
+            "value": "Mangan"
+          },
+          {
+            "id": "D",
+            "value": " Silic"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Hoàng Sa, Trường Sa là hai quần đảo thuộc tỉnh, thành nào của Việt Nam? (đúng thứ tự)",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tỉnh Thừa Thiên - Huế và TP. Đà Nẵng"
+          },
+          {
+            "id": "B",
+            "value": "TP. Đà Nẵng và tỉnh Thừa Thiên - Huế"
+          },
+          {
+            "id": "C",
+            "value": "Tỉnh Thừa Thiên - Huế và tỉnh Khánh Hòa"
+          },
+          {
+            "id": "D",
+            "value": "TP. Đà Nẵng và tỉnh Khánh Hoà"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Trong các nguồn điện, kí hiệu AC dùng để chỉ nguồn điện ... chiều, DC dùng để chỉ nguồn điện ... chiều.",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nhiều - một"
+          },
+          {
+            "id": "B",
+            "value": "Một - nhiều"
+          },
+          {
+            "id": "C",
+            "value": "Xoay – một"
+          },
+          {
+            "id": "D",
+            "value": "Một - xoay"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": " Kata và Kumite là hai nội dung thi đấu trong bộ môn thể thao nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Wushu"
+          },
+          {
+            "id": "B",
+            "value": "Kendo"
+          },
+          {
+            "id": "C",
+            "value": "Karate"
+          },
+          {
+            "id": "D",
+            "value": "Vovinam"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Cuộc khởi nghĩa Lam Sơn được chuẩn bị từ Hội thề ... năm 1416 và được kết thúc thắng lợi bằng Hội thề ... năm 1427.",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lũng Nhai – Đông Quan"
+          },
+          {
+            "id": "B",
+            "value": "Chi Lăng - Xương Giang"
+          },
+          {
+            "id": "C",
+            "value": "Tốt Động - Chúc Động"
+          },
+          {
+            "id": "D",
+            "value": "Chí Linh - Đông Đô"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Năm 2020, nhà xuất bản mỹ thuật Hồ Nam, Trung Quốc xuất bản cuốn sách về kiến trúc sư Việt Nam nào nổi tiếng với những thiết kế xanh?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Võ Trọng Nghĩa"
+          },
+          {
+            "id": "B",
+            "value": "Hoàng Thúc Hào"
+          },
+          {
+            "id": "C",
+            "value": "Ngô Viết Thụ"
+          },
+          {
+            "id": "D",
+            "value": "Diệp Minh Châu"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 20"
+  },
+  {
+    "id": 21,
+    "data": [
+      {
+        "id": 1,
+        "question": "Cảng hàng không quốc tế nào hiện là trụ sở hoạt động chính của tất cả các hãng hàng không quốc tế tại Việt Nam, nơi đóng trụ sở Tổng công ty cảng hàng không Việt Nam, và là sân bay có lượng khách lớn nhất Việt Nam hiện nay?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Nội Bài"
+          },
+          {
+            "id": "B",
+            "value": "Cát Bi"
+          },
+          {
+            "id": "C",
+            "value": "Phú Bài"
+          },
+          {
+            "id": "D",
+            "value": "Tân Sơn Nhất"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Huân chương nào là huân chương cao quý nhất của Nhà nước Cộng hòa Xã hội Chủ nghĩa Việt Nam?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Huân chương Sao Vàng"
+          },
+          {
+            "id": "B",
+            "value": "Huân chương Lao động hạng Nhất"
+          },
+          {
+            "id": "C",
+            "value": "Huân chương Kháng chiến hạng Nhất"
+          },
+          {
+            "id": "D",
+            "value": "Huân chương Hồ Chí Minh"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Tác phẩm “Một thứ quà của lúa non: Cốm” là bài tùy bút của tác giả nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Vũ Bằng"
+          },
+          {
+            "id": "B",
+            "value": "Nguyễn Tuân"
+          },
+          {
+            "id": "C",
+            "value": "Thạch Lam"
+          },
+          {
+            "id": "D",
+            "value": "Vũ Trọng Phụng"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Đây là logo của đội bóng rổ nào?",
+        "ans": "B",
+        "type": "image",
+        "url": "C4-TT-L21.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Milwaukee Bucks"
+          },
+          {
+            "id": "B",
+            "value": "Boston Celtics"
+          },
+          {
+            "id": "C",
+            "value": "Golden State Warriors"
+          },
+          {
+            "id": "D",
+            "value": "Toronto Raptors"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Tháng 8/1981, nhà khoa học người Anh Tim Berners-Lee đã đánh dấu bước ngoặt phát triển cho Internet bằng phát minh nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Wifi"
+          },
+          {
+            "id": "B",
+            "value": "World Wide Web"
+          },
+          {
+            "id": "C",
+            "value": "Router"
+          },
+          {
+            "id": "D",
+            "value": "Adapter"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Bài hát nào đã giành chiến thắng ở hạng mục “Song Of The Year” (Bài hát của năm) tại lễ trao giải Grammy 2022?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": " Bad Habits (Ed Sheeran)"
+          },
+          {
+            "id": "B",
+            "value": "Leave The Door Open (Bruno Mars, Anderson .Paak, Silk Sonic)"
+          },
+          {
+            "id": "C",
+            "value": "drivers license (Olivia Rodrigo)"
+          },
+          {
+            "id": "D",
+            "value": "Happier Than Ever (Billie Eilish)"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "“Phương trình x^n + y^n = z^n không có nghiệm nguyên khác 0 của x, y, z nếu n>2” là định lý cuối cùng của nhà toán học nổi tiếng nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Paul Erdos"
+          },
+          {
+            "id": "B",
+            "value": "Descartes"
+          },
+          {
+            "id": "C",
+            "value": "Fibonacci"
+          },
+          {
+            "id": "D",
+            "value": "Fermat"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 21"
+  },
+  {
+    "id": 22,
+    "data": [
+      {
+        "id": 1,
+        "question": "Thôi nôi là phong tục truyền thống ở nước ta thường được tổ chức khi em bé tròn bao nhiêu tháng/ bao nhiêu tuổi?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "1 tháng"
+          },
+          {
+            "id": "B",
+            "value": "6 tháng"
+          },
+          {
+            "id": "C",
+            "value": "1 tuổi"
+          },
+          {
+            "id": "D",
+            "value": "3 tuổi"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Trong hệ điều hành Windows, để xóa vĩnh viễn một thư mục hay một tệp, tức là không cần đưa vào thùng rác thì ta cần sử dụng tổ hợp phím tắt nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Shift + Delete"
+          },
+          {
+            "id": "B",
+            "value": "Ctrl + Delete"
+          },
+          {
+            "id": "C",
+            "value": "Alt + Delete"
+          },
+          {
+            "id": "D",
+            "value": "Tab + Delete"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Nhà văn nào là tác giả của tiểu thuyết Robinson Crusoe?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Charles Dickens"
+          },
+          {
+            "id": "B",
+            "value": "Jane Austen"
+          },
+          {
+            "id": "C",
+            "value": "Daniel Defoe"
+          },
+          {
+            "id": "D",
+            "value": "William Golding"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Vitamin nào giúp làm chậm sự oxy hóa, làm tăng sức bền của thành mạch, ứng dụng trong điều trị các bệnh lý xuất huyết và da liễu?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Vitamin K"
+          },
+          {
+            "id": "B",
+            "value": "Vitamin A"
+          },
+          {
+            "id": "C",
+            "value": "Vitamin B12"
+          },
+          {
+            "id": "D",
+            "value": "Vitamin C"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "BWF là tên viết tắt của Hiệp hội quốc tế về môn thể thao nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": " Bóng rổ"
+          },
+          {
+            "id": "B",
+            "value": "Cầu lông"
+          },
+          {
+            "id": "C",
+            "value": "Cầu mây"
+          },
+          {
+            "id": "D",
+            "value": "Bóng bầu dục"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Tổng số đo của từng cặp góc đối diện bằng 180 độ và hai đỉnh nhìn một cạnh dưới hai góc bằng nhau là những đặc điểm của loại tứ giác nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tứ giác điều hòa"
+          },
+          {
+            "id": "B",
+            "value": "Tứ giác bàng tiếp"
+          },
+          {
+            "id": "C",
+            "value": "Tứ giác ngoại tiếp"
+          },
+          {
+            "id": "D",
+            "value": "Tứ giác nội tiếp"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "“Trận tập kích lịch sử Trân Châu Cảng” là một đòn tấn công quân sự bất ngờ được Không lực Hải quân Nhật Bản thực hiện nhằm vào căn cứ hải quân của Hoa Kỳ tại Trân Châu Cảng thuộc tiểu bang Hawaii, dẫn đến việc Hoa Kỳ sau đó quyết định tham gia vào hoạt động quân sự trong Chiến tranh thế giới thứ hai. Hãy cho biết trận “Trân Châu Cảng” xảy ra vào năm nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "1940"
+          },
+          {
+            "id": "B",
+            "value": "1941"
+          },
+          {
+            "id": "C",
+            "value": "1942"
+          },
+          {
+            "id": "D",
+            "value": "1943"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 22"
+  },
+  {
+    "id": 23,
+    "data": [
+      {
+        "id": 1,
+        "question": "Ngọn đèo nào được nhắc đến trong những câu đầu tiên của bài hát “Tàu Anh Qua Núi”: “Đi dọc Việt Nam theo bánh con tàu quay/ Qua đèo ... mây bay đỉnh núi/ Nhớ khi xưa qua đèo qua núi/ Mà lòng anh mơ tàu qua núi cao”?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Pha Đin"
+          },
+          {
+            "id": "B",
+            "value": "Cù Mông"
+          },
+          {
+            "id": "C",
+            "value": "Ngoạn Mục"
+          },
+          {
+            "id": "D",
+            "value": "Hải Vân"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Diemos và Phobos là hai vệ tinh của hành tinh nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Hỏa Tinh"
+          },
+          {
+            "id": "B",
+            "value": "Mộc Tinh"
+          },
+          {
+            "id": "C",
+            "value": "Thiên Vương Tinh"
+          },
+          {
+            "id": "D",
+            "value": "Hải Vương Tinh"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Để chống “giặc dốt”, ngày 8/9/1945, Bác Hồ đã kí sắc lệnh thành lập phong trào gì?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ngày đồng tâm"
+          },
+          {
+            "id": "B",
+            "value": "Lớp học “i tờ”"
+          },
+          {
+            "id": "C",
+            "value": "Bình dân học vụ"
+          },
+          {
+            "id": "D",
+            "value": "Quốc ngữ hóa xã hội"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "“Big Blue” là biệt danh của tập đoàn công nghệ máy tính đa quốc gia nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "IBM"
+          },
+          {
+            "id": "B",
+            "value": "Intel"
+          },
+          {
+            "id": "C",
+            "value": "AMD"
+          },
+          {
+            "id": "D",
+            "value": "nVIDIA"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Quần đảo Galapagos được mệnh danh là “thiên đường của động vật hoang dã” thuộc chủ quyền của nước nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ecuador"
+          },
+          {
+            "id": "B",
+            "value": "Colombia"
+          },
+          {
+            "id": "C",
+            "value": "Peru"
+          },
+          {
+            "id": "D",
+            "value": "Paraguay"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "The Cannes Film Festival is held every year in which country?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Italy"
+          },
+          {
+            "id": "B",
+            "value": "France"
+          },
+          {
+            "id": "C",
+            "value": "Poland"
+          },
+          {
+            "id": "D",
+            "value": "Egypt"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Arnis (võ gậy) là quốc võ của đất nước nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Iran"
+          },
+          {
+            "id": "B",
+            "value": "Qatar"
+          },
+          {
+            "id": "C",
+            "value": "Myanmar"
+          },
+          {
+            "id": "D",
+            "value": "Philippines"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 23"
+  },
+  {
+    "id": 24,
+    "data": [
+      {
+        "id": 1,
+        "question": "Một nghĩa quân đã đốt cháy tàu Hy vọng của Pháp trên sông Vàm Cỏ Đông vào ngày 10/12/1861, đó là nghĩa quân do ai lãnh đạo?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Trương Định"
+          },
+          {
+            "id": "B",
+            "value": "Nguyễn Tri Phương"
+          },
+          {
+            "id": "C",
+            "value": "Nguyễn Trung Trực"
+          },
+          {
+            "id": "D",
+            "value": "Hoàng Diệu"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Goleiro, Fixo, Ala, Pivo là những vị trí thi đấu trong bộ môn thể thao nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Futsal"
+          },
+          {
+            "id": "B",
+            "value": "Bóng vợt"
+          },
+          {
+            "id": "C",
+            "value": "Bóng ném"
+          },
+          {
+            "id": "D",
+            "value": "Korfball"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Khi nhiệt kế thuỷ ngân bị vỡ, người ta phải rắc một thứ bột màu vàng lên những chỗ có thuỷ ngân rơi vãi. Đó là loại bột gì?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Lưu huỳnh"
+          },
+          {
+            "id": "B",
+            "value": "Kali"
+          },
+          {
+            "id": "C",
+            "value": "Phốt pho"
+          },
+          {
+            "id": "D",
+            "value": "Magie"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "A theory was published in 1915 that upset all physics folks. What is this theory?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "The theory of universal gravitation"
+          },
+          {
+            "id": "B",
+            "value": "The theory of relativity"
+          },
+          {
+            "id": "C",
+            "value": "The theory of Planck's Law"
+          },
+          {
+            "id": "D",
+            "value": "The theory of induction"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Xiêng Miêng (hay Xiêng Miệng) là những câu chuyện cười nằm trong kho tàng văn học dân gian của đất nước nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Thái Lan"
+          },
+          {
+            "id": "B",
+            "value": "Cam-pu-chia"
+          },
+          {
+            "id": "C",
+            "value": "Triều Tiên"
+          },
+          {
+            "id": "D",
+            "value": "Lào"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Giải thưởng Fields được trao cho các nhà toán học có độ tuổi như thế nào?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Không quá 55 tuổi"
+          },
+          {
+            "id": "B",
+            "value": "Không quá 50 tuổi"
+          },
+          {
+            "id": "C",
+            "value": "Không quá 45 tuổi"
+          },
+          {
+            "id": "D",
+            "value": "Không quá 40 tuổi"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Ngày 25/04 hằng năm là Ngày Thế giới phòng chống căn bệnh gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Ung thư"
+          },
+          {
+            "id": "B",
+            "value": "Sốt rét "
+          },
+          {
+            "id": "C",
+            "value": "Sốt xuất huyết"
+          },
+          {
+            "id": "D",
+            "value": "HIV/AIDS"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 24"
+  },
+  {
+    "id": 25,
+    "data": [
+      {
+        "id": 1,
+        "question": "Lewis Hamilton là vận động viên hàng đầu ở môn thể thao nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đua xe đạp"
+          },
+          {
+            "id": "B",
+            "value": "Đua xe công thức 1"
+          },
+          {
+            "id": "C",
+            "value": "Đua ngựa"
+          },
+          {
+            "id": "D",
+            "value": "Đua mô tô"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": " Nhờ hiện tượng vật lý nào mà nhựa cây có thể lên được các cành cao?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Mao dẫn"
+          },
+          {
+            "id": "B",
+            "value": "Bình thông nhau"
+          },
+          {
+            "id": "C",
+            "value": "Dính ướt"
+          },
+          {
+            "id": "D",
+            "value": " Sức căng bề mặt"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": " “Qua một điểm nằm ngoài một đường thẳng, ta vẽ được một và chỉ một đường thẳng song song với đường thẳng đã cho.” là nội dung của tiên đề/ định lý nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Định lý Viete"
+          },
+          {
+            "id": "B",
+            "value": "Tiên đề Euclid"
+          },
+          {
+            "id": "C",
+            "value": "Tiên đề Euler"
+          },
+          {
+            "id": "D",
+            "value": "Nguyên lý Dirichlet"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Edward Jenner là người đầu tiên khám phá ra vaccine điều trị căn bệnh nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Dại"
+          },
+          {
+            "id": "B",
+            "value": "Uốn ván"
+          },
+          {
+            "id": "C",
+            "value": "Đậu mùa"
+          },
+          {
+            "id": "D",
+            "value": "Sởi"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Điệu nhảy Flamenco là đặc trưng văn hóa của quốc gia nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bồ Đào Nha"
+          },
+          {
+            "id": "B",
+            "value": "Tây Ban Nha"
+          },
+          {
+            "id": "C",
+            "value": "Cuba"
+          },
+          {
+            "id": "D",
+            "value": "Mexico"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Nước Pakistan sau thế chiến thứ 2 gồm có 2 phần lãnh thổ. Ngày nay, một phần trở thành nước Pakistan, phần còn lại là quốc gia nào?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bangladesh"
+          },
+          {
+            "id": "B",
+            "value": "Maldives"
+          },
+          {
+            "id": "C",
+            "value": "Sri Lanka"
+          },
+          {
+            "id": "D",
+            "value": "Afghanistan"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "One of my favorite Vietnamese writers is Vu Trong Phung. He has the famous novel where “Red-Haired Xuan” was the main character. Can you tell me the English name of this novel? Good luck!",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bad Luck"
+          },
+          {
+            "id": "B",
+            "value": "Dumb Luck"
+          },
+          {
+            "id": "C",
+            "value": "Lucky Man"
+          },
+          {
+            "id": "D",
+            "value": "Red Number"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 25"
+  },
+  {
+    "id": 26,
+    "data": [
+      {
+        "id": 1,
+        "question": "“Cung thanh là tiếng mẹ/ Cung trầm là giọng cha.” là hai câu thơ chỉ đặc tính âm thanh của loại nhạc cụ dân tộc nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đàn tranh"
+          },
+          {
+            "id": "B",
+            "value": "Đàn bầu "
+          },
+          {
+            "id": "C",
+            "value": "Đàn tì bà"
+          },
+          {
+            "id": "D",
+            "value": "Đàn nhị"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Radio, tivi áp dụng hiện tượng vật lý nào để chọn thu và khuếch đại các sóng điện từ có tần số thích hợp?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Cộng hưởng"
+          },
+          {
+            "id": "B",
+            "value": "Quang điện trong"
+          },
+          {
+            "id": "C",
+            "value": "Siêu dẫn"
+          },
+          {
+            "id": "D",
+            "value": "Quang điện ngoài"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Helsinki is the capital of which European country?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Norway"
+          },
+          {
+            "id": "B",
+            "value": "Denmark"
+          },
+          {
+            "id": "C",
+            "value": "Finland "
+          },
+          {
+            "id": "D",
+            "value": "Netherlands"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "CPI là chỉ số được dùng để đánh giá hiện tượng nào của nền kinh tế?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Độc quyền"
+          },
+          {
+            "id": "B",
+            "value": "Lạm phát"
+          },
+          {
+            "id": "C",
+            "value": "Khủng hoảng"
+          },
+          {
+            "id": "D",
+            "value": "Đầu cơ"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Giả thuyết toán học phỏng đoán: “Mỗi số tự nhiên chẵn lớn hơn 2 có thể biểu diễn bằng tổng của hai số nguyên tố.” do một nhà toán học người Đức nêu ra vào năm 1742 trong một lá thư gửi tới Leonhard Euler tên là gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Giả thuyết Fermat"
+          },
+          {
+            "id": "B",
+            "value": "Giả thuyết Goldbach"
+          },
+          {
+            "id": "C",
+            "value": "Giả thuyết Gauss"
+          },
+          {
+            "id": "D",
+            "value": "Giả thuyết Dirichlet"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Hội chứng Down là bệnh do rối loạn nhiễm sắc thể, có ... nhiễm sắc thế số ..., làm cho trí tuệ kém phát triển.",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "3 - 21"
+          },
+          {
+            "id": "B",
+            "value": " 4 - 21"
+          },
+          {
+            "id": "C",
+            "value": "3 - 23"
+          },
+          {
+            "id": "D",
+            "value": "4 - 23"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Nhạc sĩ nào được mệnh danh là “Con chim vàng trong nền âm nhạc Việt Nam”?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Trịnh Công Sơn"
+          },
+          {
+            "id": "B",
+            "value": "Phạm Tuyên"
+          },
+          {
+            "id": "C",
+            "value": "Doãn Nho"
+          },
+          {
+            "id": "D",
+            "value": "Phan Huỳnh Điểu"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 26"
+  },
+  {
+    "id": 27,
+    "data": [
+      {
+        "id": 1,
+        "question": "Thầy thuốc nào nổi tiếng với câu nói “Nam dược trị Nam nhân”, nghĩa là dùng thuốc Nam để trị bệnh cho người Nam?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Tuệ Tĩnh"
+          },
+          {
+            "id": "B",
+            "value": "Đặng Văn Ngữ"
+          },
+          {
+            "id": "C",
+            "value": "Phạm Công Bân"
+          },
+          {
+            "id": "D",
+            "value": "Hải Thượng Lãn Ông"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Thuật ngữ \"Bluetooth\" được đặt theo tên một vị vua của quốc gia nào?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bulgaria"
+          },
+          {
+            "id": "B",
+            "value": "Cộng hòa Séc"
+          },
+          {
+            "id": "C",
+            "value": "Đan Mạch"
+          },
+          {
+            "id": "D",
+            "value": "Hungary"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Bài kiểm tra Toán có 10 câu, mỗi câu đúng được 5 điểm, mỗi câu sai bị trừ 2 điểm. An trả lời tất cả các câu và được 29 điểm. Hỏi An đúng được bao nhiêu câu ?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "5 câu"
+          },
+          {
+            "id": "B",
+            "value": "6 câu"
+          },
+          {
+            "id": "C",
+            "value": "7 câu"
+          },
+          {
+            "id": "D",
+            "value": "8 câu"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "In which year Viet Nam took part in WTO?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "2005"
+          },
+          {
+            "id": "B",
+            "value": "2006"
+          },
+          {
+            "id": "C",
+            "value": "2007"
+          },
+          {
+            "id": "D",
+            "value": "2008"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Năm 1828, nhà hoá học người Đức Friedrich Wohler là người đầu tiên tổng hợp thành công một hợp chất hữu cơ từ các chất vô cơ. Đó là hợp chất nào?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Este"
+          },
+          {
+            "id": "B",
+            "value": "Ure"
+          },
+          {
+            "id": "C",
+            "value": "TNT"
+          },
+          {
+            "id": "D",
+            "value": "Benzen"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Bảo tàng Louvre là một viện bảo tàng nghệ thuật và lịch sử nổi tiếng nằm tại thành phố nào của nước Pháp?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Bordeaux"
+          },
+          {
+            "id": "B",
+            "value": "Marseille"
+          },
+          {
+            "id": "C",
+            "value": "Orleans"
+          },
+          {
+            "id": "D",
+            "value": "Paris"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Cú sút phạt hình quả chuối của Roberto Carlos là một minh chứng thú vị cho hiệu ứng nào trong vật lý?",
+        "ans": "A",
+        "type": "image",
+        "url": "C7-Lí-L27.png",
+        "solution": [
+          {
+            "id": "A",
+            "value": "Magnus"
+          },
+          {
+            "id": "B",
+            "value": "Hall"
+          },
+          {
+            "id": "C",
+            "value": "Doppler"
+          },
+          {
+            "id": "D",
+            "value": "Mossbauer"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 27"
+  },
+  {
+    "id": 28,
+    "data": [
+      {
+        "id": 1,
+        "question": "Nhà vật lí học người Anh nào là tác giả của cuốn sách “Lược sử thời gian”?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Michael Faraday"
+          },
+          {
+            "id": "B",
+            "value": "Stephen Hawking"
+          },
+          {
+            "id": "C",
+            "value": "Isaac Newton"
+          },
+          {
+            "id": "D",
+            "value": "James Clerk Maxwell"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "According to Vietnamese folktales, which animal is God’s uncle?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Toad "
+          },
+          {
+            "id": "B",
+            "value": "Frog"
+          },
+          {
+            "id": "C",
+            "value": "Lizard"
+          },
+          {
+            "id": "D",
+            "value": "Gecko"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Hai tỉnh nào ở nước ta có đường biên giới trên bộ giáp đồng thời với hai nước?\n",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Đắk Lắk và Hà Giang"
+          },
+          {
+            "id": "B",
+            "value": "Quảng Trị và Lạng Sơn"
+          },
+          {
+            "id": "C",
+            "value": "Kon Tum và Điện Biên"
+          },
+          {
+            "id": "D",
+            "value": "Quảng Ngãi và Sơn La"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Nhà hóa học người Đức nào là người đầu tiên vẽ thành công mô hình cấu trúc thực tế của phân tử Benzen?",
+        "ans": "A",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "August Kekule"
+          },
+          {
+            "id": "B",
+            "value": "Fritz Haber"
+          },
+          {
+            "id": "C",
+            "value": "Bernard Katz"
+          },
+          {
+            "id": "D",
+            "value": "Marie Curie"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Có 4 ổ khóa và 4 chiếc chìa khóa. Cần tối đa bao nhiêu lần thử để ghép đúng chìa khóa và ổ khóa?",
+        "ans": "D",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "24"
+          },
+          {
+            "id": "B",
+            "value": "16"
+          },
+          {
+            "id": "C",
+            "value": "12"
+          },
+          {
+            "id": "D",
+            "value": "6"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Nhà Tiền Lê có bao nhiêu vị vua?",
+        "ans": "C",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "1"
+          },
+          {
+            "id": "B",
+            "value": "2"
+          },
+          {
+            "id": "C",
+            "value": "3"
+          },
+          {
+            "id": "D",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Chỉ số phổ biến nhất dùng để đo chất lượng của xăng là gì?",
+        "ans": "B",
+        "type": "text",
+        "url": null,
+        "solution": [
+          {
+            "id": "A",
+            "value": "Heptan"
+          },
+          {
+            "id": "B",
+            "value": "Octan"
+          },
+          {
+            "id": "C",
+            "value": "Nonan"
+          },
+          {
+            "id": "D",
+            "value": "Decan"
+          }
+        ]
+      }
+    ],
+    "name": "Bộ đề số 28"
+  }
+]

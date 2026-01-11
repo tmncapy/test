@@ -1,0 +1,60 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.3",
+    "@mui/styles": "^5.10.3",
+    "axios": "^0.27.2",
+    "history": "^5.3.0",
+    "jss": "^10.9.2",
+    "jss-plugin-vendor-prefixer": "^10.9.2",
+    "jss-preset-default": "^10.9.2",
+    "link-module-alias": "^1.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.0.8",
+    "socket.io-client": "^4.5.1",
+    "styled-components": "^5.3.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "postinstall": "link-module-alias",
+    "preinstall": "link-module-alias clean"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "_moduleAliases": {
+    "components": "src/components",
+    "utils": "src/utils",
+    "contexts": "src/contexts",
+    "pages": "src/pages",
+    "assets": "src/assets",
+    "services": "src/services",
+    "hooks": "src/hooks"
+  }
+}
